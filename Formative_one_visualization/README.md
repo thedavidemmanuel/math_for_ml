@@ -33,7 +33,7 @@ The key findings from the visualizations suggest that:
 
 ## Repository Contents
 
-- `Analysis.ipynb`: Jupyter notebook containing the analysis code and visualizations.
+- `Plotting_Assignment.ipynb`: Jupyter notebook containing the analysis code and visualizations.
 - `Plots/`: Directory containing exported PNG files of the plots.
 - `fuel_econ.csv`: The dataset used for the analysis.
 
